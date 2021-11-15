@@ -1,0 +1,1 @@
+{"version":3,"file":"producto.js","sourceRoot":"","sources":["../../src/controllers/producto.ts"],"names":[],"mappings":";;;;;;;;;;;;AACA,mDAA6D;AAGtD,MAAM,cAAc,GAAG,CAAO,GAAY,EAAE,GAAa,EAAiB,EAAE;IAC/E,IAAI;QACA,MAAM,IAAA,gCAAqB,EAAC,GAAG,EAAE,GAAG,CAAC,CAAC;KACzC;IAAC,OAAO,CAAC,EAAE;QACR,MAAM,CAAC,CAAC;KACX;AACL,CAAC,CAAA,CAAC;AANW,QAAA,cAAc,kBAMzB"}

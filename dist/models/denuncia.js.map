@@ -1,0 +1,1 @@
+{"version":3,"file":"denuncia.js","sourceRoot":"","sources":["../../src/models/denuncia.ts"],"names":[],"mappings":";;;AAAA,uCAAkD;AAOjD,CAAC;AAEW,QAAA,cAAc,GAAG,IAAI,iBAAM,CAAC;IACvC,UAAU,EAAE,MAAM;IAClB,SAAS,EAAE,MAAM;IACjB,UAAU,EAAE,MAAM;IAClB,MAAM,EAAE,MAAM;CACf,CAAC,CAAA;AAEF,MAAM,QAAQ,GAAG,IAAA,gBAAK,EAAY,UAAU,EAAE,sBAAc,CAAC,CAAC;AAC9D,kBAAe,QAAQ,CAAC"}
